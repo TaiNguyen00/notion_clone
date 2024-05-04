@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# sử dụng convex để làm be
+Convex is a Backend Application Platform that keeps you focused on building your product. Convex Functions, Database, File Storage, Scheduling, and Search fit together cohesively, and are accessible from client libraries for your favorite environment. Everything in Convex is live and realtime.
+# sử dụng clerk để authentication
+# UI sử dụng Shadcn
+# sử dụng Sonner (toaster)
+
+# https://edgestore.dev/
+
+# https://www.blocknotejs.org/docs/quickstart
