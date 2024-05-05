@@ -14,7 +14,7 @@ import { EdgeStoreProvider } from '../lib/edgestore';
 
 
 export const metadata: Metadata = {
-  title: "Notion Clone",
+  title: "Notions",
   description: "The connected workspace where better, faster work happens.",
   icons: {
     icon: [
